@@ -1,0 +1,29 @@
+
+body{
+    margin: 0px;
+}
+
+.first-page{
+    background-color: rgb(196, 223, 238);
+    height: 700px;
+    width: full;
+    padding: 1px;
+}
+
+.title{
+    font-size: 70px;
+    font-family: "Sacramento";
+    text-align: center;
+    color: red;
+    box-shadow: 50px;
+}
+.sub-title{
+    font-size: 30px;
+    font-family: "Sacramento";
+    text-align: center;
+}
+.image{
+    height: 300px;
+    width: auto;
+    padding-left: 30%;
+}
